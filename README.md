@@ -128,13 +128,10 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
-### 🖥️ Web Interface
-![UI]("C:\Users\Sifat Khan Joy\Pictures\Screenshots\Screenshot 2025-12-31 194431.png">)
-
-![Result]("C:\Users\Sifat Khan Joy\Pictures\Screenshots\Screenshot 2026-01-03 162715.png")
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sifat221/Waste_Classification_code/main/static/image.png" width="45%">
+  <img src="https://raw.githubusercontent.com/Sifat221/Waste_Classification_code/main/static/IMG_3876.JPG" width="45%">
+</p>
 
 ## 💡 Project Significance
 
