@@ -130,11 +130,11 @@ http://127.0.0.1:5000
 
 ### Web Interface
 
-![UI](static/image.png)
+![UI](<img width="346" height="340" alt="image" src="https://github.com/user-attachments/assets/4199a737-ebd7-4da0-94aa-350dae032b2c" />)
 
 ### Prediction Result
 
-![Result](static/IMG_3876.JPG)
+![Result](<img width="333" height="336" alt="image" src="https://github.com/user-attachments/assets/11535ffe-9910-444a-b518-b84401b5a479" />)
 
 ---
 
