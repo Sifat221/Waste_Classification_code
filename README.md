@@ -128,14 +128,12 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-### Web Interface
+## 📸 Screenshots
 
-![UI](<img width="346" height="340" alt="image" src="https://github.com/user-attachments/assets/4199a737-ebd7-4da0-94aa-350dae032b2c" />)
+### 🖥️ Web Interface
+![UI]("C:\Users\Sifat Khan Joy\Pictures\Screenshots\Screenshot 2025-12-31 194431.png">)
 
-### Prediction Result
-
-![Result](<img width="333" height="336" alt="image" src="https://github.com/user-attachments/assets/11535ffe-9910-444a-b518-b84401b5a479" />)
-
+![Result]("C:\Users\Sifat Khan Joy\Pictures\Screenshots\Screenshot 2026-01-03 162715.png")
 ---
 
 ## 💡 Project Significance
@@ -157,7 +155,7 @@ This system reduces manual waste sorting, improves recycling efficiency, and con
 
 * Sifat Khan
 * Md Arif Billah
-  Department of CSE
-  Daffodil International University
+*  Department of CSE
+* Daffodil International University
 
 ---
